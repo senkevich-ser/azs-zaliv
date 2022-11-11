@@ -4,12 +4,12 @@ import './Portfolio.css';
 
 const Portfolio = () => (
   <section className="portfolio portfolio__container">
-    <h4 className="portfolio__container portfolio__title">Портфолио</h4>
+    <h4 className="portfolio__container portfolio__title">Раздел клиента</h4>
 
     <ul className="portfolio__container projects__table">
       <li className="portfolio__container projects__element">
         <p className="portfolio__container projects__info">
-          Статичный сайт
+          Акции
         </p>
         <a
           className="projects__link"
@@ -22,7 +22,7 @@ const Portfolio = () => (
 
       <li className="portfolio__container projects__element">
         <p className="portfolio__container projects__info">
-          Адаптивный сайт
+          Преимущества
         </p>
         <a
           className="projects__link"
@@ -35,7 +35,7 @@ const Portfolio = () => (
 
       <li className="portfolio__container projects__element">
         <p className="portfolio__container projects__info">
-          Одностраничное приложение
+          Вопрос ответ
         </p>
         <a
           className="projects__link"

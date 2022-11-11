@@ -3,8 +3,8 @@ import Header from '../Header/Header';
 import NavTab from './NavTab/NavTab';
 import Promo from './Promo/Promo';
 import AboutProject from './AboutProject/AboutProject';
+import Portfolio from './Portfolio/Portfolio';
 import Techs from './Techs/Techs';
-import AboutMe from './AboutMe/AboutMe';
 import Footer from '../Footer/Footer';
 import './Main.css';
 
@@ -13,7 +13,7 @@ const Main = () => (
     <Promo>{<Header>{<NavTab />}</Header>}</Promo>
     <AboutProject />
     <Techs />
-    <AboutMe />
+    <Portfolio />
     <Footer />
   </div>
 );
