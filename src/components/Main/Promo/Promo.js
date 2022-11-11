@@ -3,7 +3,7 @@ import './Promo.css';
 
 function Promo(props) {
   return (
-    <section className="promo promo__module">
+    <section className="promo">
       {props.children}
       <div className="promo__module promo__tank">
         <h1 className="promo__module promo__title">

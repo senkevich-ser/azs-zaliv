@@ -5,7 +5,7 @@ const Footer = () => (
   <footer className="footer">
 
     <p className="footer__text footer__info">
-      Учебный проект Яндекс.Практикум х BeatFilm.
+      Сайт принадлежит ООО "ТК Ресурс"
     </p>
 
     <div className="footer__row">
