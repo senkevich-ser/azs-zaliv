@@ -7,12 +7,12 @@ function AboutProject() {
   return (
     <section className="aboutProject">
 
-      <h3 className='aboutProject__title'>О проекте</h3>
+      <h3 className='aboutProject__title'>О компании</h3>
 
       <ul className="table">
         <li className="table__column">
           <h4 className="table__title">
-            Дипломный проект включал 5 этапов
+          Компания Залив – это сеть современных заправочных комплексов, расположенных в Саратове и Энгельсе.
           </h4>
           <p className="table__text">
             Составление плана, работу над бэкендом, вёрстку,

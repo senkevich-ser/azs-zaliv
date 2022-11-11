@@ -1,7 +1,12 @@
 .logo {
+  display: flex;
+  text-decoration: none;
+  flex-direction: row;
+}
+
+.logo__image {
   display: block;
   text-decoration: none;
-
   box-sizing: border-box;
   width: 100px;
   height: 100px;
