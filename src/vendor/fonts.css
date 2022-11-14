@@ -20,3 +20,22 @@
   src: url(./fonts/Dansing/DancingScript-Bold.ttf);
   font-weight: bold;
 }
+
+@font-face {
+  font-family: "Arvo";
+  src: url(./fonts/Arvo/Arvo-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Gora-Free";
+  src: url(./fonts/Gora/Gora-Free.ttf);
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: "Gorod";
+  src: url(./fonts/Gorod/Gorod.otf);
+  font-weight: black;
+}
