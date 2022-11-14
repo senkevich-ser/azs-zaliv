@@ -16,11 +16,11 @@
 
 .promo__tank {
   width: 100%;
-  height: 56vh;
+  height: 62vh;
   padding: 50px 70px 60px 70px;
-  background-image: url(../../../images/azs.jpg);
+  background-image: url(../../../images/promo2.jpg);
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: center 60%;
   background-size: 100%;
 }
 
