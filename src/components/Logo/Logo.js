@@ -3,10 +3,7 @@ import { Link } from 'react-router-dom';
 import './Logo.css';
 
 const Logo = () => (
-  <Link to="/" className="logo" >
-    <div className='logo__image'></div>
-    <h2 className='logo__title'>Залив</h2>
-  </Link>
+  <Link to="/" className="logo" ></Link>
 );
 
 export default Logo;
