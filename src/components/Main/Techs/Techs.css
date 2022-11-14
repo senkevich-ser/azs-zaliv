@@ -48,7 +48,7 @@
   list-style-type: none;
 
   display: grid;
-  grid-template-columns: repeat(auto-fit, 90px);
+  grid-template-columns: repeat(auto-fit, 150px);
   gap: 10px;
   justify-content: center;
   justify-items: center;
@@ -71,7 +71,7 @@
   background-color: #e8e8e8;
   border-radius: 10px;
 
-  width: 90px;
+  width: 150px;
   height: 60px;
   padding: 0;
   margin: 0;
@@ -93,7 +93,7 @@
   }
 
   .techs__table {
-    grid-template-columns: repeat(auto-fit, 84px);
+    grid-template-columns: repeat(auto-fit, 144px);
     padding: 0px 10px;
     padding-top: 83px;
   }
@@ -101,7 +101,7 @@
   .techs__item {
     font-size: 12px;
     line-height: 57px;
-    width: 84px;
+    width: 144px;
     height: 57px;
   }
 }
