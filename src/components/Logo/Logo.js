@@ -5,7 +5,7 @@ import './Logo.css';
 const Logo = () => (
   <Link to="/" className="logo" >
     <div className='logo__image'></div>
-    <h2 className='logo__title'>АЗС Залив</h2>
+    <h2 className='logo__title'>Залив</h2>
   </Link>
 );
 

@@ -21,9 +21,9 @@
   border: none;
 }
 
-.logo__title{
+.logo__title {
   color: black;
-  font-family:"Gorod";
+  /* font-family:"Gorod"; */
   font-size: 40px;
   font-weight: bold;
 }
