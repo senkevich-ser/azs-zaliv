@@ -9,7 +9,8 @@ import './Main.css';
 
 const Main = () => (
   <div className="main">
-    <Promo>{<Header>{<NavTab />}</Header>}</Promo>
+    <Header>{<NavTab />}</Header>
+    <Promo></Promo>
     <AboutProject />
     <Techs />
     <Footer />
