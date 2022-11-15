@@ -7,9 +7,8 @@ function Promo(props) {
       {props.children}
       <div className="promo__module promo__tank">
         <h1 className="promo__module promo__title">
-          Создаем устойчивое энергетическое будущее.
+          Создаем<br></br> устойчивое <br></br>энергетическое <br></br>будущее.
         </h1>
-        <div className="promo__module promo__image" />
       </div>
     </section>
   );
