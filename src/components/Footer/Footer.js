@@ -15,19 +15,19 @@ const Footer = () => (
 
           <li className="footer__row-link">
             <a className="footer__link footer__info"
-              href="https://praktikum.yandex.ru"
+              href="https://vk.com"
               target="_blank" rel="noreferrer noopener"
             >
-              Яндекс.Практикум
+              ВКонтакте
             </a>
           </li>
 
           <li className="footer__row-link">
             <a className="footer__link footer__info"
-              href="https://github.com"
+              href="https://instagram.com"
               target="_blank" rel="noreferrer noopener"
             >
-              Github
+              Instagram
             </a>
           </li>
 

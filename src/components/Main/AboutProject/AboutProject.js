@@ -15,7 +15,7 @@ function AboutProject() {
           Компания Залив – это сеть современных заправочных комплексов, расположенных в Саратове и Энгельсе
           </h4>
           <p className="table__text">
-          Клиентоориентированный и высококвалифицированный персонал
+          Функционируeт с помощью высококвалифицированного персонала
           </p>
         </li>
         <li className="table__column">
@@ -27,21 +27,6 @@ function AboutProject() {
           </p>
         </li>
       </ul>
-
-      <div className="plan">
-        <p className="plan__text plan__chart plan__chart_black">
-        Высокий уровень сервиса
-        </p>
-        <p className="plan__text plan__chart plan__chart_gray">
-        Клиентоориентированный персонал
-        </p>
-        <p className="plan__text plan__item">
-        Высокое качество топлива
-        </p>
-        <p className="plan__text plan__item">
-          Магазины с качественной продукцией
-        </p>
-      </div>
 
     </section >
   );

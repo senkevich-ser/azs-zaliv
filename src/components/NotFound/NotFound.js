@@ -15,7 +15,7 @@ function NotFound({ history }) {
       </h1>
 
       <p className="not-found__subtitle not-found__box gradual-change">
-        Страница не найдена
+        Страница находится в разработке
       </p>
 
       <Button userClass="not-found__button" onClick={handleClick}>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import '../AboutProject/AboutProject.css';
 import './Techs.css';
@@ -17,13 +18,13 @@ function Techs() {
         Топливная компания "Залив" – один из крупнейших операторов на рынке нефтепродуктов Саратовской области.
         </p>
 
-        <ul className="techs__table">
-          <li className="techs__item">Акции</li>
-          <li className="techs__item">Преимущества</li>
-          <li className="techs__item">Вопрос ответ</li>
-          <li className="techs__item">Гарантии качества</li>
-          <li className="techs__item">Дисконтная карта</li>
-        </ul>
+        <nav className="techs__table">
+          <Link to='/action' className="techs__item">Акции</Link>
+          <Link to='/advantage' className="techs__item">Преимущества</Link>
+          <Link to='/response' className="techs__item">Вопрос ответ</Link>
+          <Link to='/guarantees' className="techs__item">Гарантии качества</Link>
+          <Link to='/discount' className="techs__item">Дисконтная карта</Link>
+        </nav>
 
       </div>
 

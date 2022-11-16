@@ -32,6 +32,21 @@ function App() {
         <Route path="/signin">
           <Login />
         </Route>
+        <Route path="/action">
+        <NotFound history={history} />
+        </Route>
+        <Route path="/advantage">
+        <NotFound history={history} />
+        </Route>
+        <Route path="/response">
+        <NotFound history={history} />
+        </Route>
+        <Route path="/guarantees">
+        <NotFound history={history} />
+        </Route>
+        <Route path="/discount">
+        <NotFound history={history} />
+        </Route>
         <Route path="*">
           <NotFound history={history} />
         </Route>

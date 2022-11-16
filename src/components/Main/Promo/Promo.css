@@ -26,10 +26,6 @@
 .promo__tank {
   width: 100%;
   height: 100%;
-  /* background-image: url(../../../images/promo2.jpg);
-  background-repeat: no-repeat;
-  background-position: center 60%;
-  background-size: 100%; */
 }
 
 .promo__title {
@@ -42,6 +38,7 @@
   letter-spacing: -0.04em;
   text-align: left;
   width: 626px;
+  padding: 60px 44px 70px 44px;
 }
 
 
