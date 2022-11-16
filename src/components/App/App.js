@@ -6,6 +6,7 @@ import SavedMovies from '../SavedMovies/SavedMovies';
 import Profile from '../Profile/Profile';
 import Register from '../pages/Register';
 import Login from '../pages/Login/Login';
+import ActionInfo from'../ActionInfo/ActionInfo';
 import NotFound from '../NotFound/NotFound'
 import './App.css';
 
@@ -33,7 +34,7 @@ function App() {
           <Login />
         </Route>
         <Route path="/action">
-        <NotFound history={history} />
+          <ActionInfo/>
         </Route>
         <Route path="/advantage">
         <NotFound history={history} />
