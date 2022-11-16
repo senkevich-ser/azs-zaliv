@@ -43,9 +43,6 @@
 
 
 @media screen and (max-width: 970px) {
-  .promo__tank {
-    /* padding: 60px 44px 70px 44px; */
-  }
 
   .promo__title {
     width: 80%;
@@ -79,14 +76,29 @@
 }
 
 @media screen and (max-width: 600px) {
-  .promo__tank {
-    /* padding: 40px 0px 40px 0px; */
-  }
-
   .promo__title {
     font-size: 31px;
     line-height: 39px;
-    /* padding: 0 10px; */
+    padding: 60px 34px 70px 34px;
   }
 
 }
+
+@media screen and (max-width: 500px) {
+  .promo__title {
+    font-size: 25px;
+    line-height: 30px;
+    padding: 60px 14px 70px 14px;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  .promo__title {
+    font-size: 20px;
+    line-height: 24px;
+    padding: 60px 14px 70px 14px;
+  }
+
+}
+

@@ -6,17 +6,17 @@ function NavTab() {
   return (
     <nav className="nav-tab">
       <Link
-        to="/signup"
+       /*  to="/signup" */
         className="nav-tab__btn nav-tab__btn_register gradual-change"
       >
-        Регистрация
+        e-mail: alfa.tek64@gmail.com
       </Link>
 
       <Link
-        to="/signin"
+       /*  to="/signin" */
         className="nav-tab__btn nav-tab__btn_login gradual-change"
       >
-        Войти
+        тел. +7(8452)25-14-01
       </Link>
     </nav >
   );
