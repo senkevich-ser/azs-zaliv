@@ -1,7 +1,10 @@
 .actionInfo {
+  display: flex;
+  flex-direction: column;
   box-sizing: border-box;
   padding: 110px 70px;
   margin: 0;
+  align-items: center;
 }
 
 .actionInfo__title {
@@ -19,7 +22,22 @@
   margin: 0;
 }
 
-.actionInfo__text {
-width: 72%;
+.actionInfo__button {
+  color: #000000;
+  font-size: 25px;
+  font-weight: normal;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: -0.04em;
+  background-color: #e8e8e8;
+  border-radius: 10px;
+  width: 150px;
+  height: 60px;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  margin: 0 auto;
 }
-
+.actionInfo__text {
+  width: 72%;
+}
