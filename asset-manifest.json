@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/azs-zaliv/static/css/main.8b3189a0.css",
-    "main.js": "/azs-zaliv/static/js/main.41c6ff7e.js",
+    "main.css": "/azs-zaliv/static/css/main.a117a53c.css",
+    "main.js": "/azs-zaliv/static/js/main.8885dbef.js",
     "static/media/frankl.pdf": "/azs-zaliv/static/media/frankl.15194bde61851ef76df0.pdf",
     "static/media/logo_zaliv2.jpg": "/azs-zaliv/static/media/logo_zaliv2.7e446b126f2921921332.jpg",
     "static/media/promo2.jpg": "/azs-zaliv/static/media/promo2.cf96ea46e2e727fbea24.jpg",
@@ -21,11 +21,11 @@
     "static/media/invisible_like.svg": "/azs-zaliv/static/media/invisible_like.140b763965e72920f444.svg",
     "static/media/menu-icon.svg": "/azs-zaliv/static/media/menu-icon.fe889bf9813280b38b86.svg",
     "static/media/delete-icon.svg": "/azs-zaliv/static/media/delete-icon.09da049275af48ed6340.svg",
-    "main.8b3189a0.css.map": "/azs-zaliv/static/css/main.8b3189a0.css.map",
-    "main.41c6ff7e.js.map": "/azs-zaliv/static/js/main.41c6ff7e.js.map"
+    "main.a117a53c.css.map": "/azs-zaliv/static/css/main.a117a53c.css.map",
+    "main.8885dbef.js.map": "/azs-zaliv/static/js/main.8885dbef.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b3189a0.css",
-    "static/js/main.41c6ff7e.js"
+    "static/css/main.a117a53c.css",
+    "static/js/main.8885dbef.js"
   ]
 }
