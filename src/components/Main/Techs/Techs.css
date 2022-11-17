@@ -11,7 +11,6 @@
   font-weight: normal;
   line-height: 58px;
   letter-spacing: -0.04em;
-
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -21,7 +20,6 @@
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-
   box-sizing: border-box;
   width: 100%;
   padding: 0;
@@ -36,7 +34,6 @@
   line-height: 20px;
   text-align: center;
   letter-spacing: -0.04em;
-
   width: 100%;
   max-width: 460px;
   padding: 0;
@@ -46,13 +43,11 @@
 
 .techs__table {
   list-style-type: none;
-
   display: grid;
   grid-template-columns: repeat(auto-fit, 150px);
   gap: 10px;
   justify-content: center;
   justify-items: center;
-
   box-sizing: border-box;
   width: 100%;
   padding: 0;
@@ -67,10 +62,8 @@
   line-height: 60px;
   text-align: center;
   letter-spacing: -0.04em;
-
   background-color: #e8e8e8;
   border-radius: 10px;
-
   width: 150px;
   height: 60px;
   padding: 0;

@@ -45,4 +45,14 @@
   .nav-tab {
     flex-flow: column nowrap;
   }
+  .nav-tab__btn {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav-tab__btn {
+    font-size: 14px;
+  }
 }
