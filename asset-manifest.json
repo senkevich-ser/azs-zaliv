@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zaliv/static/css/main.e214812d.css",
-    "main.js": "/zaliv/static/js/main.bcf19426.js",
+    "main.js": "/zaliv/static/js/main.306a1c00.js",
     "static/media/frankl.pdf": "/zaliv/static/media/frankl.15194bde61851ef76df0.pdf",
     "static/media/logo_zaliv2.jpg": "/zaliv/static/media/logo_zaliv2.7e446b126f2921921332.jpg",
     "static/media/promo2.jpg": "/zaliv/static/media/promo2.cf96ea46e2e727fbea24.jpg",
@@ -22,10 +22,10 @@
     "static/media/menu-icon.svg": "/zaliv/static/media/menu-icon.fe889bf9813280b38b86.svg",
     "static/media/delete-icon.svg": "/zaliv/static/media/delete-icon.09da049275af48ed6340.svg",
     "main.e214812d.css.map": "/zaliv/static/css/main.e214812d.css.map",
-    "main.bcf19426.js.map": "/zaliv/static/js/main.bcf19426.js.map"
+    "main.306a1c00.js.map": "/zaliv/static/js/main.306a1c00.js.map"
   },
   "entrypoints": [
     "static/css/main.e214812d.css",
-    "static/js/main.bcf19426.js"
+    "static/js/main.306a1c00.js"
   ]
 }
