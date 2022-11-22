@@ -2,7 +2,6 @@
   "name": "movies-explorer-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://senkevich-ser.github.io/zaliv",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -22,8 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "npx eslint .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && scp -r ./build/* root@62.217.178.177:/var/www/html"
   },
   "eslintConfig": {
     "extends": [
