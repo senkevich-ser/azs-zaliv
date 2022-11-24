@@ -9,7 +9,7 @@ function NavTab() {
        /*  to="/signup" */
         className="nav-tab__btn nav-tab__btn_register gradual-change"
       >
-        e-mail: alfa.tek64@gmail.com
+        e-mail: tkresurs64@gmail.com
       </Link>
 
       <Link
