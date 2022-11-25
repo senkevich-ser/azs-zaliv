@@ -10,92 +10,1398 @@ function ActionInfo() {
   return (
     <>
       <Header>{<NavTab />}</Header>
-      <section className="actionInfo">
-        <h3 className='actionInfo__title'>Программа лояльности "Залив-бонус"</h3>
-        {/* <iframe title="" src={action} className="actionInfo__button"></iframe> */}
-        <Link to="/"><button className="actionInfo__button">Главная</button></Link>
-        <body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><p style={{lineHeight: '108%', marginBottom: '0.11in'}}>
-<b>Субъект </b>— это индивид как носитель
-сознания, обладающий способностью к
-деятельности.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Индивидуальность</b>
-— <i>это совокупность психических,
-физиологических и социальных особенностей
-конкретного человека с точки зрения
-его уникальности, своеобразия и
-неповторимости.</i> Предпосылкой
-формирования человеческой индивидуальности
-служат анатомо-физиологические задатки,
-которые преобразуются в процессе
-воспитания, имеющего общественно
-обусловленный характер. Разнообразие
-условий воспитания и врожденных
-характеристик порождает широкую
-вариативность проявлений индивидуальности.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Психика</b>
-— это свойство высокоорганизованной
-живой материи, заключающееся в активном
-отражении субъектом объективного мира,
-в построении субъектом неотчуждаемой
-от него картины этого мира и регуляции
-на этой основе поведения и деятельности.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Поведение</b>
-— это сложный комплекс реакций живого
-организма на воздействия внешней среды.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Сознание
-</b>— высший уровень психического
-отражения и регуляции, присущий только
-человеку как социальному существу.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Инстинктивное
-поведение</b> – это видовое поведение,
-одинаково направленное у всех
-представителей одного и того же вида
-животных.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Деятельность
-</b>— это динамическая система взаимодействия
-субъекта с миром. В процессе этого
-взаимодействия происходит возникновение
-психического образа и его воплощение
-в объекте, а также реализация субъектом
-своих отношений с окружающей реальностью.
-Любая деятельность имеет побудительные
-причины и направлена на достижение
-определенных результатов.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Мотивы</b>
-— совокупность внешних и внутренних
-условий, вызывающих активность субъекта
-и определяющих направленность
-деятельности. Именно мотив, побуждая к
-деятельности, определяет ее направленность,
-т. е. определяет ее цели и задачи.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Цель </b>—
-это осознанный образ предвосхищенного
-результата, на достижение которого
-направлено действие человека. Целью
-может быть какой-либо предмет, явление
-или определенное действие.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Представление</b>
-– это психический процесс отражения
-предметов или явлений, которые в данный
-момент не воспринимаются, но воссоздаются
-на основе предыдущего опыта.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Память</b>
-– это сложный психический процесс,
-состоящий из нескольких частных
-процессов, связанных друг с другом:
-запечатление, сохранение и воспроизведение,
-и так же забывание.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Воображение
-</b>– это процесс преобразования
-представлений, отражающих реальную
-действительность, и создание на этой
-основе новых представлений.</p>
-<p style={{lineHeight: '108%', marginBottom: '0.11in'}}><b>Основные
-виды воображения</b>: 1. Сновидения; 2.
-Воссоздающее; 3. Пространственное; 4.
-Продуктивное(творческое); 5. Мечта</p>
-</body>
-      </section >
+      <div className='textContainer'>
+
+        <>
+          <meta httpEquiv="content-type" content="text/html; charset=utf-8" />
+          <title />
+          <meta name="generator" content="LibreOffice 7.4.2.3 (Linux)" />
+          <meta name="author" content="rs29@yandex.ru" />
+          <meta name="created" content="2022-11-02T09:01:00" />
+          <meta name="changedby" content="Сергей Сенкевич" />
+          <meta name="changed" content="2022-11-25T07:13:00" />
+          <style
+            type="text/css"
+            dangerouslySetInnerHTML={{
+              __html:
+                '\n\t\t@page { size: 8.27in 11.69in; margin-right: 0.59in; margin-top: 0.79in; margin-bottom: 0.79in }\n\t\tp { color: #000000; line-height: 115%; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }\n\t\tp.western { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: ru-RU }\n\t\tp.cjk { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: zh-CN }\n\t\tp.ctl { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: ar-SA }\n\t\ta:link { color: #0000ff; text-decoration: underline }\n\t\tstrong { font-weight: bold }\n\t'
+            }}
+          />
+          <table width={'100%'} style={{ display: 'flex', justifyContent: 'flex-end' }}>
+            <tbody style={{ display: 'flex', justifyContent: 'flex-end' }}>
+              <tr valign="top">
+                <p
+                  lang="ru-RU"
+                  className="western"
+                  style={{ marginBottom: "0in", background: "#ffffff" }}
+                >
+                  <font face="Times New Roman, serif" size={3} className='actionText'>Утверждены
+                    <br></br>Приказом №1  от    25.11. 2022 г.
+                    <br></br>Директор
+
+                    <br></br>_______________ Е.В. Топчишвили
+                  </font>
+                  {/* <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Утверждены
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  Приказом №1 от 25.11. 2022 г.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Директор
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ marginBottom: "0in", background: "#ffffff" }}
+          ></p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  _______________ Е.В. Топчишвили
+                </font>
+              </font>
+            </font> */}
+                  <span
+                    style={{
+                      display: "inline-block",
+                      border: "none",
+                      padding: "0in"
+                    }}
+                  >
+                    <font face="Times New Roman, serif">
+                      <font size={3} style={{ fontSize: "12pt" }}>
+                        <font color="#000000">&nbsp;</font>
+                      </font>
+                    </font>
+                  </span>
+                </p>
+                <p lang="ru-RU" className="western" style={{ background: "#ffffff" }}>
+                  <br />
+                </p>
+              </tr>
+            </tbody>
+          </table>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="center"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <br />
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="center"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={4} style={{ fontSize: "14pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">
+                    Правила участия клиентов автозаправочных комплексов «Залив» в
+                    Программе лояльности с использованием карт «Залив-бонус»
+                  </font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font color="#333333">&nbsp;</font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{
+              lineHeight: "100%",
+              textIndent: "0.49in",
+              marginBottom: "0in",
+              background: "#ffffff"
+            }}
+          >
+            &nbsp;
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                На всех автозаправочных комплексах ««Залив» в Саратовской области
+                действует программа лояльности с использованием Карт «Залив» (далее –
+                Программа). Покупая топливо и (или) товары в магазинах при АЗК «Залив»
+                клиенты накапливают баллы с помощью пластиковой карты. Накопленными
+                Баллами можно оплачивать топливо и (или) товары. Баллы, накопленные при
+                использовании Карты, списываются баллы при предъявлении клиентом Карты.
+                Предъявление Карты обязательно.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{
+              lineHeight: "100%",
+              textIndent: "0.49in",
+              marginBottom: "0in",
+              background: "#ffffff"
+            }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Баллы могут быть использованы Участником в течение одного года с момента
+                записи информации о Баллах на Карту. По истечении указанного периода
+                Участник утрачивает право на списание Баллов. Баллы, не использованные
+                Участником в рамках одного года с момента записи информации о них на
+                Карту Участника, сгорают.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{
+              lineHeight: "100%",
+              textIndent: "0.49in",
+              marginBottom: "0in",
+              background: "#ffffff"
+            }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Карты предоставляются при покупке топлива и товаров в магазинах при АЗК
+                «Залив» на сумму свыше 1500 руб.{" "}
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{
+              lineHeight: "100%",
+              textIndent: "0.49in",
+              marginBottom: "0in",
+              background: "#ffffff"
+            }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Карты реализуются всем желающим по цене 100 рублей
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{
+              lineHeight: "100%",
+              textIndent: "0.49in",
+              marginBottom: "0in",
+              background: "#ffffff"
+            }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                За 500 руб. начисляется 10 Баллов. Свыше 500 руб.&nbsp; за каждые 50
+                рублей, потраченные клиентом на приобретение топлива и (или) товаров,
+                начисляется 1 Балл. Накопленными Баллами можно оплачивать топливо и
+                товары из расчета 1 балл = 1 рубль.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              &nbsp;
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">Используемые термины</font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">Оператор –&nbsp;</font>
+                  </b>
+                </font>
+              </font>
+            </span>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  Общество с ограниченной ответственностью «Торговая компания ресурс»,
+                  ИНН 6454124840&nbsp; ОГРН 1206400009420. Компания является
+                  организатором Программы.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">АЗК –&nbsp;</font>
+                  </b>
+                </font>
+              </font>
+            </span>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  сеть автозаправочных комплексов «Залив».
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">Участник</font>
+                  </b>
+                </font>
+              </font>
+            </span>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  &nbsp;— физическое лицо, клиент АЗК, участвующий в программе
+                  лояльности.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">Карта</font>
+                  </b>
+                </font>
+              </font>
+            </span>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  &nbsp;— пластиковая информационно-учетная карта, предоставляемая
+                  Участнику.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">Балл&nbsp;</font>
+                  </b>
+                </font>
+              </font>
+            </span>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  – условное обозначение размера скидки при оплате топлива и товаров. 1
+                  Балл = 1 рублю.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <br />
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">1. Участие в программе</font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                Любое совершеннолетнее физическое лицо вправе стать участником Программы
+                лояльности. Для этого будущий Участник приобретает Карту. Использование
+                Карты означает полное и безоговорочное согласие с правилами Программы.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">
+                    2. Использование интернет-сайта
+                  </font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  2.1. На Интернет сайте{" "}
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <span lang="en-US">
+                    <b>www</b>
+                  </span>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>.</b>
+                </font>
+              </font>
+            </font>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <strong>
+              <font color="#364364">
+                <font face="Arial, sans-serif">
+                  <font size={5} style={{ fontSize: "18pt" }}>
+                    <span style={{ background: "#f2f4f9" }}></span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  Оператор размещает полную информацию о Программе с учетом последних
+                  обновлений, изменений и дополнений, перечень АЗК. Указанная информация
+                  может предоставляться Оператором Участнику и по иным средствам связи.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">3. Персональные данные</font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                3.1. При получении Карты Участник даёт своё согласие на обработку
+                персональных данных.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                3.1.1. В случае указания Участником недостоверных персональных данных в
+                согласии Оператор оставляет за собой право исключить его из участия в
+                Программе без предварительного уведомления Участника и аннулировать
+                Баллы, накопленные Участником.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                3.2. Участник в течение трех календарных дней с момента изменения
+                персональных данных должен сообщить Оператору о таких изменениях.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                3.2.1. Изменить персональные данные (номер телефона и т.п.) Участник
+                может, написав заявление на изменение персональных данных, указав номер
+                своей Карты, старый номер телефона и новый номер телефона. Запросы,
+                оформленные в произвольной форме и направляемые Участником Оператору.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">
+                    4. Порядок начисления Баллов
+                  </font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.1. Баллы начисляются на Карту при покупке топлива и (или) товаров на
+                АЗК.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.2. Для начисления Баллов на Карту Участник должен до приобретения
+                топлива и (или) товаров предъявить Карту Оператору на АЗК.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.3. Порядок предоставления Баллов:
+              </font>
+            </font>
+          </p>
+          <ul>
+            <li>
+              <p
+                lang="ru-RU"
+                className="western"
+                align="justify"
+                style={{ lineHeight: "100%", marginBottom: "0in" }}
+              >
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    Карты предоставляются при покупке топлива и товаров от 1500 руб., и
+                    реализуются всем желающим по цене 100 рублей. За 500 руб.
+                    начисляется 10 Баллов. Свыше 500 руб.&nbsp; за каждые 50 рублей,
+                    потраченные Участником на приобретение топлива и (или) товаров на
+                    АЗК предоставляется 1 Балл;
+                  </font>
+                </font>
+              </p>
+            </li>
+            <li>
+              <p
+                lang="ru-RU"
+                className="western"
+                align="justify"
+                style={{ lineHeight: "100%", marginBottom: "0in" }}
+              >
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    При предоставлении Баллов производится округление стоимости топлива
+                    и (или) товара, указанной в одном чеке контрольно-кассовой техники
+                    Оператора, к меньшему значению, кратному пятидесяти.
+                  </font>
+                </font>
+              </p>
+            </li>
+          </ul>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.4. Запись информации о Баллах на Карту производится Оператором не
+                позднее 14 рабочих дней с момента совершения Участником покупки топлива
+                и (или) товара.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.5. Баллы могут быть использованы Участником в течение одного года с
+                момента записи информации о Баллах на Карту. Баллы, не использованные
+                Участником в течение одного года с момента записи информации о них на
+                Карту Участника, сгорают.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                4.6. После совершения покупки, с использованием карты «Залив» Участнику
+                необходимо проверить правильность начисления Баллов не отходя от кассы,
+                с использованием чека.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">5. Порядок списания Баллов</font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                5.1. Для списания Баллов Участник должен до приобретения топлива
+                сообщить об этом Оператору и предъявить Оператору Карту.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                5.2. При оплате топлива Баллами с Карты списываются Баллы из расчета 1
+                Балл за каждый полный или неполный рубль.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                5.3. После совершения покупки, с использованием карты «Залив» Участнику
+                необходимо проверить правильность списания Баллов не отходя от кассы, с
+                использованием чека.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>
+                    <font color="#000000">
+                      6. Корректировка записи о количестве Баллов на счете при возврате
+                      и обмене товара
+                    </font>
+                  </b>
+                </font>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                6.1. Обмен/возврат товара, приобретенного Участником в рамках Программы,
+                производится при предъявлении Участником Карты на АЗК, где был
+                приобретен товар.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                6.2. При обмене/возврате товара, приобретенного Участником в рамках
+                Программы и оплаченного наличными денежными средствами, Оператор
+                списывает с Карты информацию о количестве Баллов, которая была записана
+                на Карту при приобретении Участником товара.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                6.3. В случае обмена/возврата товара, приобретенного Участником со
+                списанием Баллов на Карту записывается информация о количестве Баллов,
+                которая была списана с Карты при списании Баллов, запись информации
+                осуществляется только при предъявлении Участником Карты.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">
+                    7. Восстановление утерянной или поврежденной участником Карты
+                  </font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                7.1. В случае утраты/повреждения Карты Участник должен незамедлительно
+                уведомить об этом Оператора. После идентификации Участника Оператор
+                должен заблокировать Карту. Баллы фиксируются на Карту Участника на
+                момент блокировки Карты.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                7.2. Восстановить возможность участия в Программе лояльности участник
+                может только в случае приобретения новой Карты за свой счет.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                7.3. Восстановление накопленных Баллов на вновь приобретенную Карту
+                предусмотрено.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                7.4. Заявление необходимо предоставить в письменном виде в офис
+                Оператора по адресу: 410004, Саратовская область, город Саратов, ул. им
+                Чернышевского Н.Г., д. 60/62а, офис 7 или на любую АЗК «Залив» сразу
+                после приобретения новой Карты.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">
+                    8. Прекращение действия программы
+                  </font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                8.1. Оператор оставляет за собой право в одностороннем порядке
+                прекратить действие Программы.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  8.2. В случае прекращения действия Программы Оператор должен
+                  опубликовать на сайте
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b></b>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <span lang="en-US">
+                    <b>www</b>
+                  </span>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>.</b>
+                </font>
+              </font>
+            </font>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  &nbsp;&nbsp;сообщение о прекращении действия Программы.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                8.3. В случае прекращения действия Программы Участник имеет право на
+                списание Баллов до даты прекращения действия Программы.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                8.4. Баллы, оставшиеся на Карте после даты прекращения действия
+                Программы, аннулируются. С момента прекращения действия Программы
+                Участник утрачивает право на списание Баллов.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <span style={{ display: "inline-block", border: "none", padding: "0in" }}>
+              <font size={3} style={{ fontSize: "12pt" }}>
+                <b>
+                  <font face="Times New Roman, serif">9. Прочие условия</font>
+                </b>
+              </font>
+            </span>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  9.1. В силу постоянного совершенствования Программы Оператор оставляет
+                  за собой право вносить изменения в действующие правила Программы,
+                  обеспечив размещение извещения о таких изменениях Программы на
+                  сайте&nbsp;
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <span lang="en-US">
+                    <b>www</b>
+                  </span>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>.</b>
+                </font>
+              </font>
+            </font>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.2. Участник имеет право оплачивать товар с использованием Карты.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.3. Оператор не несет ответственности за сбои в работе сайта, на
+                котором размещена информация и правила участия в Программе по причине
+                неправомерных действий третьих лиц несанкционированный/неправомерный
+                доступ и т.д.).
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.4. Оператор не несет ответственности за сбои в работе учреждений
+                связи.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.5. Программа не допускает объединение Карт Участников и/или передачу
+                Баллов одним Участником другому Участнику и/или третьему лицу.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.6 Оператор имеет право на проведение в рамках Программы акций для
+                Участников.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  9.7. Оператор имеет право вносить изменения в правила акций,
+                  проводимых в рамках Программы для Участников и/или досрочно прекращать
+                  акции, проводимые в рамках Программы для Участников, обеспечив
+                  размещение извещения о таких изменениях и/или досрочных прекращениях
+                  акций, проводимых в рамках Программы для Участников, на сайте{" "}
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <span lang="en-US">
+                    <b>www</b>
+                  </span>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>.</b>
+                </font>
+              </font>
+            </font>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <strong>
+              <font color="#364364">
+                <font face="Arial, sans-serif">
+                  <font size={5} style={{ fontSize: "18pt" }}>
+                    <span style={{ background: "#f2f4f9" }}></span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  не менее, чем за 30 рабочих дня до вступления в силу &nbsp;таких
+                  изменений и/или досрочных прекращений акций, проводимых в рамках
+                  Программы для Участников.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  9.8. Оператор оповещает Участников о проведении в рамках Программы
+                  акций для Участников путем размещения информации на сайте{" "}
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <span lang="en-US">
+                    <b>www</b>
+                  </span>
+                </font>
+              </font>
+            </font>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  <b>.</b>
+                </font>
+              </font>
+            </font>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <strong>
+              <font color="#364364">
+                <font face="Arial, sans-serif">
+                  <font size={5} style={{ fontSize: "18pt" }}>
+                    <span style={{ background: "#f2f4f9" }}></span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  Программы и/или иным способом.
+                </font>
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.9. Участник вправе в любое время прекратить дальнейшее участие в
+                Программе, письменно уведомив об этом Оператора.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.10. В случае выхода Участника из Программы, Участник утрачивает право
+                на списание Баллов.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.11. Оператор оставляет за собой право исключить любого Участника из
+                Программы, в случае нарушения последним Правил, а также в случае, если
+                Участник не совершает покупки товара в рамках Программы в течение 12
+                месяцев с даты совершения последней покупки товара в рамках Программы.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.12. В случае закрытия Программы Оператором Участник утрачивает право
+                на списание Баллов.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font color="#000000">
+              <font face="Times New Roman, serif">
+                <font size={3} style={{ fontSize: "12pt" }}>
+                  9.13. В случае закрытия Программы Оператор по своему выбору сообщает
+                  об этом путем размещения на сайте{" "}
+                </font>
+              </font>
+            </font>
+            <a href="http://www.azs-zaliv.ru/">
+              <font color="#0000ff">
+                <u>
+                  <font color="#000000">
+                    <font face="Times New Roman, serif">
+                      <font size={3} style={{ fontSize: "12pt" }}>
+                        <span lang="en-US">
+                          <b>www</b>
+                        </span>
+                      </font>
+                    </font>
+                  </font>
+                </u>
+              </font>
+              <font color="#0000ff">
+                <u>
+                  <font color="#000000">
+                    <font face="Times New Roman, serif">
+                      <font size={3} style={{ fontSize: "12pt" }}>
+                        <b>.</b>
+                      </font>
+                    </font>
+                  </font>
+                </u>
+              </font>
+              <font color="#0000ff">
+                <u>
+                  <font color="#000000">
+                    <font face="Times New Roman, serif">
+                      <font size={3} style={{ fontSize: "12pt" }}>
+                        <span style={{ background: "#f2f4f9" }}>azs-zaliv.ru</span>
+                      </font>
+                    </font>
+                  </font>
+                </u>
+              </font>
+            </a>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ background: "#f2f4f9" }}></span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+            <strong>
+              <font color="#000000">
+                <font face="Times New Roman, serif">
+                  <font size={3} style={{ fontSize: "12pt" }}>
+                    <span style={{ fontWeight: "normal" }}>
+                      <span style={{ background: "#f2f4f9" }}>
+                        или иным способом не менее чем за 30 дней.
+                      </span>
+                    </span>
+                  </font>
+                </font>
+              </font>
+            </strong>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.14. Участник и Оператор признают обязательным соблюдение
+                претензионного (досудебного) порядка урегулирования споров, вытекающих
+                из и/или возникающих в связи с участием в Программе.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in", background: "#ffffff" }}
+          >
+            <font face="Times New Roman, serif">
+              <font size={3} style={{ fontSize: "12pt" }}>
+                9.15. В случае не достижения согласия, а именно: полного или частичного
+                отказа в удовлетворении претензии, спор подлежит разрешению в суде в
+                соответствии с действующим законодательством Российской Федерации.
+              </font>
+            </font>
+          </p>
+          <p
+            lang="ru-RU"
+            className="western"
+            align="justify"
+            style={{ lineHeight: "100%", marginBottom: "0in" }}
+          >
+            <br />
+          </p>
+        </>
+
+      </div>
     </>
   );
 }

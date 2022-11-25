@@ -48,3 +48,38 @@
 .actionInfo__text {
   width: 72%;
 }
+
+.textContainer{
+padding: 0 70px;
+}
+
+.actionText{
+  font-size: 16px;
+}
+
+@media screen and (max-width: 830px) {
+  .textContainer {
+    padding: 0 40px;
+  }
+  .actionText{
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .textContainer {
+    padding: 0 20px;
+  }
+  .actionText{
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .textContainer {
+    padding: 0 10px;
+  }
+  .actionText{
+    font-size: 10px;
+  }
+}
